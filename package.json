@@ -15,7 +15,7 @@
     "node": "^14.18.0"
   },
   "devDependencies": {
-    "@amethyst-writer/scripts": "1.0.0",
+    "@amethyst-writer/scripts": "github:TheAuthorGH/amethyst-writer-scripts",
     "@types/jest": "^27.4.1",
     "@types/uuid": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "^5.15.0",
